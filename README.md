@@ -1,2 +1,2 @@
 # MappingWeb
-Use of Leaflet JS
+Analysis of earthquakes database of United States Geological Survey (USGS) using Leaflet.js 
